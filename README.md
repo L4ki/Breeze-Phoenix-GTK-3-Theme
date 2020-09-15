@@ -5,3 +5,8 @@ Changelog: 26.12.2019.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 15.09.2020.
+----------------------
+
+Correction of gtkrc file
